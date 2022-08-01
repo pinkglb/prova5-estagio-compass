@@ -1,0 +1,1 @@
+INSERT INTO OFERTA (nome, dataValidade, desconto, descricao) VALUES ('Natal', '2019-05-05 19:00:00', 200.0, 'promocao de natal')
